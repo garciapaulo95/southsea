@@ -270,6 +270,17 @@ body {
   font-weight: 500;
   color: rgb(255, 255, 255, 0.8);
 }
+
+.thirdline {
+  z-index: 2;
+  font-size: 20px;
+  padding-top: 20px;
+  font-weight: 500;
+  color: rgb(255, 255, 255, 0.8);
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .slash {
   animation-name: animateslash;
   animation-duration: 0.8s;
