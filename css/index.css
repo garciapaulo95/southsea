@@ -1403,13 +1403,13 @@ For devices with smaller width like mobile phone
   #breaker {
     height: 50vh;
     width: 200%;
-    background-color: #1e6293;
+    background-color: #d34a24;
     opacity: 1;
     animation: breakeranimate 2s linear;
     display: none;
     transition: all 0.4s ease;
     z-index: 10;
-    position: fixed;
+    position: cover;
   }
   @keyframes breakeranimate {
     0% {
